@@ -20,21 +20,28 @@ It allows the chatbot to coordinate with specialized back-end agents for **fligh
 mcp-travel-agent/
 │
 ├── backend/
-│ └── servers/
-│ ├── flight_server/
-│ ├── hotel_server/
-│ ├── event_server/
-│ ├── geocoder_server/
-│ ├── weather_server/
-│ └── finance_server/
+│   └── servers/
+│       ├── flight_server/
+│       │   └── flight_server.py
+│       ├── hotel_server/
+│       │   └── hotel_server.py
+│       ├── event_server/
+│       │   └── event_server.py
+│       ├── geocoder_server/
+│       │   └── geocoder_server.py
+│       ├── weather_server/
+│       │   └── weather_server.py
+│       └── finance_server/
+│           └── finance_server.py
 │
-└── frontend/
-├── app.py # Streamlit app
-├── config.py # Configuration for MCP servers
-├── mcp_use.py # MCPAgent and MCPClient logic
-└── .env # API keys and local paths (excluded from Git)
-
-
+├── frontend/
+│   ├── app.py          # Streamlit app
+│   ├── config.py       # MCP server configuration     
+│   └── .env            # Environment variables (excluded from Git)
+│
+├── .gitignore          # Ignored files like .env, __pycache__, etc.
+├── README.md           # Project documentation   
+└── LICENSE             # MIT License
 
 
 ---
