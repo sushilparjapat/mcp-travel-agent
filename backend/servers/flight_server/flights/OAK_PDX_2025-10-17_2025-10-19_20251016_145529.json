@@ -1,0 +1,837 @@
+{
+  "search_metadata": {
+    "search_id": "OAK_PDX_2025-10-17_2025-10-19_20251016_145529",
+    "departure": "OAK",
+    "arrival": "PDX",
+    "outbound_date": "2025-10-17",
+    "return_date": "2025-10-19",
+    "trip_type": "Round trip",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-10-16T14:55:29.876073"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 05:40"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 07:20"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 4006",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 211 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 212000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -4
+      },
+      "price": 1054,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1pYVGpRd01EWWFDd2pxdGdZUUFob0RWVk5FT0J4dzZyWUciLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiNDAwNiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 09:25"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 11:07"
+          },
+          "duration": 102,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2094",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 258 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "total_duration": 102,
+      "carbon_emissions": {
+        "this_flight": 258000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 17
+      },
+      "price": 1054,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1pCVXpJd09UUWFDd2pxdGdZUUFob0RWVk5FT0J4dzZyWUciLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMjA5NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 19:06"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 20:50"
+          },
+          "duration": 104,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 3279",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 258 kg"
+          ],
+          "plane_and_crew_by": "SkyWest Airlines as Alaska SkyWest"
+        }
+      ],
+      "total_duration": 104,
+      "carbon_emissions": {
+        "this_flight": 258000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 17
+      },
+      "price": 1054,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1pCVXpNeU56a2FDd2pxdGdZUUFob0RWVk5FT0J4dzZyWUciLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMzI3OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 20:35"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 22:15"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 1927",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "Stream media to your device",
+            "Carbon emissions estimate: 237 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 238000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 8
+      },
+      "price": 1054,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1pYVGpFNU1qY2FDd2pxdGdZUUFob0RWVk5FT0J4dzZyWUciLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiMTkyNyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 12:30"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 14:10"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 546",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "Stream media to your device",
+            "Carbon emissions estimate: 237 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 238000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 8
+      },
+      "price": 1124,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1ZYVGpVME5ob0xDTUx0QmhBQ0dnTlZVMFE0SEhEQzdRWT0iLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiNTQ2Il1dXQ=="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 06:40"
+          },
+          "arrival_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-17 08:46"
+          },
+          "duration": 126,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 1151",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 250 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-17 09:55"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 10:53"
+          },
+          "duration": 58,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2028",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 142 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 69,
+          "name": "Seattle\u2013Tacoma International Airport",
+          "id": "SEA"
+        }
+      ],
+      "total_duration": 253,
+      "carbon_emissions": {
+        "this_flight": 393000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 79
+      },
+      "price": 1073,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZzFCVXpFeE5URjhRVk15TURJNEdnc0kvc1VHRUFJYUExVlRSRGdjY1A3RkJnPT0iLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJTRUEiLG51bGwsIkFTIiwiMTE1MSJdLFsiU0VBIiwiMjAyNS0xMC0xNyIsIlBEWCIsbnVsbCwiQVMiLCIyMDI4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 05:55"
+          },
+          "arrival_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2025-10-17 08:52"
+          },
+          "duration": 117,
+          "airplane": "Embraer 175",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 4061",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Carbon emissions estimate: 289 kg"
+          ],
+          "plane_and_crew_by": "SkyWest DBA Delta Connection"
+        },
+        {
+          "departure_airport": {
+            "name": "Salt Lake City International Airport",
+            "id": "SLC",
+            "time": "2025-10-17 11:20"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 12:20"
+          },
+          "duration": 120,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1209",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 194 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 148,
+          "name": "Salt Lake City International Airport",
+          "id": "SLC"
+        }
+      ],
+      "total_duration": 385,
+      "carbon_emissions": {
+        "this_flight": 483000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 120
+      },
+      "price": 1093,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZzFFVERRd05qRjhSRXd4TWpBNUdnc0kydFVHRUFJYUExVlRSRGdjY05yVkJnPT0iLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJTTEMiLG51bGwsIkRMIiwiNDA2MSJdLFsiU0xDIiwiMjAyNS0xMC0xNyIsIlBEWCIsbnVsbCwiREwiLCIxMjA5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 14:33"
+          },
+          "arrival_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-17 16:38"
+          },
+          "duration": 125,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 1247",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 250 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-17 18:04"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 18:59"
+          },
+          "duration": 55,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2258",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 142 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 86,
+          "name": "Seattle\u2013Tacoma International Airport",
+          "id": "SEA"
+        }
+      ],
+      "total_duration": 266,
+      "carbon_emissions": {
+        "this_flight": 393000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 79
+      },
+      "price": 1313,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZzFCVXpFeU5EZDhRVk15TWpVNEdnc0l2b0VJRUFJYUExVlRSRGdjY0w2QkNBPT0iLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJTRUEiLG51bGwsIkFTIiwiMTI0NyJdLFsiU0VBIiwiMjAyNS0xMC0xNyIsIlBEWCIsbnVsbCwiQVMiLCIyMjU4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Oakland International Airport",
+            "id": "OAK",
+            "time": "2025-10-17 16:05"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 17:45"
+          },
+          "duration": 100,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 1383",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "Stream media to your device",
+            "Carbon emissions estimate: 237 kg"
+          ]
+        }
+      ],
+      "total_duration": 100,
+      "carbon_emissions": {
+        "this_flight": 238000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 8
+      },
+      "price": 1556,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJY0UxTVRVVnpRbmhhWXpoQlEzWjZkWGRDUnkwdExTMHRMUzB0TFMxdmEzVnVNa0ZCUVVGQlIycDNkV2RyUjNoaVowbEJFZ1pYVGpFek9ETWFDd2lDdndrUUFob0RWVk5FT0J4d2dyOEoiLFtbIk9BSyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiMTM4MyJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 1054,
+    "price_level": "high",
+    "typical_price_range": [
+      250,
+      660
+    ],
+    "price_history": [
+      [
+        1755414000,
+        334
+      ],
+      [
+        1755500400,
+        334
+      ],
+      [
+        1755586800,
+        334
+      ],
+      [
+        1755673200,
+        334
+      ],
+      [
+        1755759600,
+        334
+      ],
+      [
+        1755846000,
+        334
+      ],
+      [
+        1755932400,
+        334
+      ],
+      [
+        1756018800,
+        334
+      ],
+      [
+        1756105200,
+        334
+      ],
+      [
+        1756191600,
+        334
+      ],
+      [
+        1756278000,
+        334
+      ],
+      [
+        1756364400,
+        334
+      ],
+      [
+        1756450800,
+        344
+      ],
+      [
+        1756537200,
+        374
+      ],
+      [
+        1756623600,
+        374
+      ],
+      [
+        1756710000,
+        374
+      ],
+      [
+        1756796400,
+        354
+      ],
+      [
+        1756882800,
+        332
+      ],
+      [
+        1756969200,
+        332
+      ],
+      [
+        1757055600,
+        352
+      ],
+      [
+        1757142000,
+        374
+      ],
+      [
+        1757228400,
+        354
+      ],
+      [
+        1757314800,
+        325
+      ],
+      [
+        1757401200,
+        320
+      ],
+      [
+        1757487600,
+        320
+      ],
+      [
+        1757574000,
+        320
+      ],
+      [
+        1757660400,
+        314
+      ],
+      [
+        1757746800,
+        314
+      ],
+      [
+        1757833200,
+        314
+      ],
+      [
+        1757919600,
+        314
+      ],
+      [
+        1758006000,
+        314
+      ],
+      [
+        1758092400,
+        374
+      ],
+      [
+        1758178800,
+        374
+      ],
+      [
+        1758265200,
+        374
+      ],
+      [
+        1758351600,
+        374
+      ],
+      [
+        1758438000,
+        354
+      ],
+      [
+        1758524400,
+        354
+      ],
+      [
+        1758610800,
+        344
+      ],
+      [
+        1758697200,
+        344
+      ],
+      [
+        1758783600,
+        344
+      ],
+      [
+        1758870000,
+        384
+      ],
+      [
+        1758956400,
+        536
+      ],
+      [
+        1759042800,
+        536
+      ],
+      [
+        1759129200,
+        698
+      ],
+      [
+        1759215600,
+        698
+      ],
+      [
+        1759302000,
+        698
+      ],
+      [
+        1759388400,
+        698
+      ],
+      [
+        1759474800,
+        698
+      ],
+      [
+        1759561200,
+        736
+      ],
+      [
+        1759647600,
+        736
+      ],
+      [
+        1759734000,
+        774
+      ],
+      [
+        1759820400,
+        774
+      ],
+      [
+        1759906800,
+        774
+      ],
+      [
+        1759993200,
+        774
+      ],
+      [
+        1760079600,
+        774
+      ],
+      [
+        1760166000,
+        914
+      ],
+      [
+        1760252400,
+        914
+      ],
+      [
+        1760338800,
+        1054
+      ],
+      [
+        1760425200,
+        1054
+      ],
+      [
+        1760511600,
+        1054
+      ],
+      [
+        1760598000,
+        1054
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "OAK",
+            "name": "Oakland International Airport"
+          },
+          "city": "Oakland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2Bb7WL6M85lvFSy_stt7U62uJvzYE1ZfaHnG7uDU0iaoJkXYRg6Ol5cJPNAnsNN-TZkzUabm_olJpQ",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2j1_Hx2juzwv1lWZpWIKgSQdJgGmw2mhoLCU_-CquZQJtiascbZBC5KcipHoqmEdQPm2MFNhdu5eB6QwuJ_SOebLqhVt9woPlBYofwug"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "OAK",
+            "name": "Oakland International Airport"
+          },
+          "city": "Oakland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV2Bb7WL6M85lvFSy_stt7U62uJvzYE1ZfaHnG7uDU0iaoJkXYRg6Ol5cJPNAnsNN-TZkzUabm_olJpQ",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2j1_Hx2juzwv1lWZpWIKgSQdJgGmw2mhoLCU_-CquZQJtiascbZBC5KcipHoqmEdQPm2MFNhdu5eB6QwuJ_SOebLqhVt9woPlBYofwug"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "search_metadata": {
+    "search_id": "tech_networking_Tokyo_week_tech_20251016_171019",
+    "query": "tech networking",
+    "location": "Tokyo",
+    "date_filter": "week",
+    "event_type": "tech",
+    "language": "en",
+    "country": "jp",
+    "search_timestamp": "2025-10-16T17:10:19.659923",
+    "total_results": 0
+  },
+  "search_parameters": {
+    "q": "tech networking in Tokyo",
+    "engine": "google_events",
+    "htichips": "date:week,event_type:tech",
+    "hl": "en",
+    "gl": "jp"
+  },
+  "search_information": {
+    "events_results_state": "Fully empty"
+  },
+  "events_results": []
+}

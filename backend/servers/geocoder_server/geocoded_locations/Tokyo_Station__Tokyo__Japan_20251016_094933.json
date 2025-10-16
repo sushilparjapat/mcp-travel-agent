@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "query": "Tokyo Station, Tokyo, Japan",
+  "multiple_results": false,
+  "location_data": {
+    "latitude": 35.6811505,
+    "longitude": 139.7659765,
+    "display_name": "Tokyo Station Marunouchu Building, 1, Marunouchi 1, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan",
+    "raw_data": {
+      "place_id": 408447889,
+      "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://osm.org/copyright",
+      "osm_type": "relation",
+      "osm_id": 4856156,
+      "lat": "35.6811505",
+      "lon": "139.7659765",
+      "class": "historic",
+      "type": "building",
+      "place_rank": 30,
+      "importance": 8.593499656667457e-05,
+      "addresstype": "historic",
+      "name": "Tokyo Station Marunouchu Building",
+      "display_name": "Tokyo Station Marunouchu Building, 1, Marunouchi 1, Marunouchi, Chiyoda, Tokyo, 100-0005, Japan",
+      "address": {
+        "historic": "Tokyo Station Marunouchu Building",
+        "house_number": "1",
+        "neighbourhood": "Marunouchi 1",
+        "quarter": "Marunouchi",
+        "city": "Chiyoda",
+        "ISO3166-2-lvl4": "JP-13",
+        "postcode": "100-0005",
+        "country": "Japan",
+        "country_code": "jp"
+      },
+      "boundingbox": [
+        "35.6797617",
+        "35.6826015",
+        "139.7653085",
+        "139.7666568"
+      ]
+    }
+  },
+  "timestamp": "2025-10-16T09:49:33.272067"
+}

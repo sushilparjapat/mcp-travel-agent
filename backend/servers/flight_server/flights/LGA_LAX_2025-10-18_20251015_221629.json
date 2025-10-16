@@ -1,0 +1,1822 @@
+{
+  "search_metadata": {
+    "search_id": "LGA_LAX_2025-10-18_20251015_221629",
+    "departure": "LGA",
+    "arrival": "LAX",
+    "outbound_date": "2025-10-18",
+    "return_date": null,
+    "trip_type": "One way",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-10-15T22:16:29.174300"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 11:30"
+          },
+          "arrival_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-10-18 14:08"
+          },
+          "duration": 158,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 4347",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 79 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Hartsfield-Jackson Atlanta International Airport",
+            "id": "ATL",
+            "time": "2025-10-18 19:48"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 21:44"
+          },
+          "duration": 296,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 4547",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 198 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 340,
+          "name": "Hartsfield-Jackson Atlanta International Airport",
+          "id": "ATL"
+        }
+      ],
+      "total_duration": 794,
+      "carbon_emissions": {
+        "this_flight": 278000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -22
+      },
+      "price": 232,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFHT1RRek5EZDhSamswTlRRM0dnc0krTFFCRUFJYUExVlRSRGdjY1BpMEFRPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJBVEwiLG51bGwsIkY5IiwiNDM0NyJdLFsiQVRMIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiRjkiLCI0NTQ3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 12:55"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 15:55"
+          },
+          "duration": 240,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1263",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 209 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 17:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 18:10"
+          },
+          "duration": 190,
+          "airplane": "Boeing 777",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1669",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 164 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 65,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 495,
+      "carbon_emissions": {
+        "this_flight": 374000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 4
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRFeU5qTjhRVUV4TmpZNUdnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJERlciLG51bGwsIkFBIiwiMTI2MyJdLFsiREZXIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIxNjY5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 10:00"
+          },
+          "arrival_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-18 12:18"
+          },
+          "duration": 258,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 586",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 188 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-18 13:30"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 15:00"
+          },
+          "duration": 150,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1252",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 127 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 72,
+          "name": "Denver International Airport",
+          "id": "DEN"
+        }
+      ],
+      "total_duration": 480,
+      "carbon_emissions": {
+        "this_flight": 317000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -11
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZ3hWUVRVNE5ueFZRVEV5TlRJYUN3aXVxd0lRQWhvRFZWTkVPQnh3cnFzQyIsW1siTEdBIiwiMjAyNS0xMC0xOCIsIkRFTiIsbnVsbCwiVUEiLCI1ODYiXSxbIkRFTiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMTI1MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 13:25"
+          },
+          "arrival_airport": {
+            "name": "Chicago Midway International Airport",
+            "id": "MDW",
+            "time": "2025-10-18 14:45"
+          },
+          "duration": 140,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 3540",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "Stream media to your device",
+            "Carbon emissions estimate: 127 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago Midway International Airport",
+            "id": "MDW",
+            "time": "2025-10-18 16:30"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 18:55"
+          },
+          "duration": 265,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 3514",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 212 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 105,
+          "name": "Chicago Midway International Airport",
+          "id": "MDW"
+        }
+      ],
+      "total_duration": 510,
+      "carbon_emissions": {
+        "this_flight": 340000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -5
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFYVGpNMU5EQjhWMDR6TlRFMEdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJNRFciLG51bGwsIldOIiwiMzU0MCJdLFsiTURXIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiV04iLCIzNTE0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 13:00"
+          },
+          "arrival_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-10-18 14:55"
+          },
+          "duration": 115,
+          "airplane": "Airbus A320",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 1122",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 95 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Detroit Metropolitan Wayne County Airport",
+            "id": "DTW",
+            "time": "2025-10-18 15:58"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 17:49"
+          },
+          "duration": 291,
+          "airplane": "Boeing 737",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 883",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 256 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 63,
+          "name": "Detroit Metropolitan Wayne County Airport",
+          "id": "DTW"
+        }
+      ],
+      "total_duration": 469,
+      "carbon_emissions": {
+        "this_flight": 352000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -2
+      },
+      "price": 404,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZ3hFVERFeE1qSjhSRXc0T0RNYUN3ai91Z0lRQWhvRFZWTkVPQnh3LzdvQyIsW1siTEdBIiwiMjAyNS0xMC0xOCIsIkRUVyIsbnVsbCwiREwiLCIxMTIyIl0sWyJEVFciLCIyMDI1LTEwLTE4IiwiTEFYIixudWxsLCJETCIsIjg4MyJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 16:32"
+          },
+          "arrival_airport": {
+            "name": "Orlando International Airport",
+            "id": "MCO",
+            "time": "2025-10-18 19:33"
+          },
+          "duration": 181,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 4383",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 95 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Orlando International Airport",
+            "id": "MCO",
+            "time": "2025-10-19 06:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-19 08:28"
+          },
+          "duration": 328,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 4145",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 227 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 627,
+          "name": "Orlando International Airport",
+          "id": "MCO",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1136,
+      "carbon_emissions": {
+        "this_flight": 322000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -10
+      },
+      "price": 232,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFHT1RRek9ETjhSamswTVRRMUdnc0krTFFCRUFJYUExVlRSRGdjY1BpMEFRPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJNQ08iLG51bGwsIkY5IiwiNDM4MyJdLFsiTUNPIiwiMjAyNS0xMC0xOSIsIkxBWCIsbnVsbCwiRjkiLCI0MTQ1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 08:25"
+          },
+          "arrival_airport": {
+            "name": "St. Louis Lambert International Airport",
+            "id": "STL",
+            "time": "2025-10-18 10:15"
+          },
+          "duration": 170,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 3547",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 147 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "St. Louis Lambert International Airport",
+            "id": "STL",
+            "time": "2025-10-18 13:55"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 16:00"
+          },
+          "duration": 245,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 2532",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 192 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 220,
+          "name": "St. Louis Lambert International Airport",
+          "id": "STL"
+        }
+      ],
+      "total_duration": 635,
+      "carbon_emissions": {
+        "this_flight": 340000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -5
+      },
+      "price": 335,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFYVGpNMU5EZDhWMDR5TlRNeUdnc0ltNFVDRUFJYUExVlRSRGdjY0p1RkFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJTVEwiLG51bGwsIldOIiwiMzU0NyJdLFsiU1RMIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiV04iLCIyNTMyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 06:00"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 08:04"
+          },
+          "duration": 124,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 3084",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 103 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 08:57"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 11:07"
+          },
+          "duration": 310,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1995",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 290 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 53,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        }
+      ],
+      "total_duration": 487,
+      "carbon_emissions": {
+        "this_flight": 393000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 10
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRNd09EUjhRVUV4T1RrMUdnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJDTFQiLG51bGwsIkFBIiwiMzA4NCJdLFsiQ0xUIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIxOTk1Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 07:30"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 10:30"
+          },
+          "duration": 240,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1987",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 191 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 11:19"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 12:31"
+          },
+          "duration": 192,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1610",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 182 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 49,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 481,
+      "carbon_emissions": {
+        "this_flight": 374000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 4
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRFNU9EZDhRVUV4TmpFd0dnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJERlciLG51bGwsIkFBIiwiMTk4NyJdLFsiREZXIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIxNjEwIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 10:10"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 12:15"
+          },
+          "duration": 125,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 3100",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 88 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 13:26"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 15:41"
+          },
+          "duration": 315,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 352",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 290 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 71,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        }
+      ],
+      "total_duration": 511,
+      "carbon_emissions": {
+        "this_flight": 379000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 6
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZ3hCUVRNeE1EQjhRVUV6TlRJYUN3aU9wUUlRQWhvRFZWTkVPQnh3anFVQyIsW1siTEdBIiwiMjAyNS0xMC0xOCIsIkNMVCIsbnVsbCwiQUEiLCIzMTAwIl0sWyJDTFQiLCIyMDI1LTEwLTE4IiwiTEFYIixudWxsLCJBQSIsIjM1MiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 10:55"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 13:49"
+          },
+          "duration": 234,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2857",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 191 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 14:57"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 16:09"
+          },
+          "duration": 192,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2177",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 166 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 68,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 494,
+      "carbon_emissions": {
+        "this_flight": 358000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 0
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRJNE5UZDhRVUV5TVRjM0dnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJERlciLG51bGwsIkFBIiwiMjg1NyJdLFsiREZXIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIyMTc3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 11:06"
+          },
+          "arrival_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 13:07"
+          },
+          "duration": 121,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2390",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 103 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Charlotte Douglas International Airport",
+            "id": "CLT",
+            "time": "2025-10-18 14:35"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 16:47"
+          },
+          "duration": 312,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1943",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 290 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 88,
+          "name": "Charlotte Douglas International Airport",
+          "id": "CLT"
+        }
+      ],
+      "total_duration": 521,
+      "carbon_emissions": {
+        "this_flight": 393000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 10
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRJek9UQjhRVUV4T1RRekdnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJDTFQiLG51bGwsIkFBIiwiMjM5MCJdLFsiQ0xUIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIxOTQzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 14:59"
+          },
+          "arrival_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 18:05"
+          },
+          "duration": 246,
+          "airplane": "Airbus A321",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 2789",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 209 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Fort Worth International Airport",
+            "id": "DFW",
+            "time": "2025-10-18 19:05"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 20:23"
+          },
+          "duration": 198,
+          "airplane": "Boeing 737",
+          "airline": "American",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+          "travel_class": "Economy",
+          "flight_number": "AA 1796",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 166 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 60,
+          "name": "Dallas Fort Worth International Airport",
+          "id": "DFW"
+        }
+      ],
+      "total_duration": 504,
+      "carbon_emissions": {
+        "this_flight": 376000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 5
+      },
+      "price": 376,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFCUVRJM09EbDhRVUV4TnprMkdnc0lqcVVDRUFJYUExVlRSRGdjY0k2bEFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJERlciLG51bGwsIkFBIiwiMjc4OSJdLFsiREZXIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiQUEiLCIxNzk2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 15:50"
+          },
+          "arrival_airport": {
+            "name": "Fort Lauderdale-Hollywood International Airport",
+            "id": "FLL",
+            "time": "2025-10-18 19:06"
+          },
+          "duration": 196,
+          "airplane": "Airbus A320",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 471",
+          "legroom": "32 in",
+          "extensions": [
+            "Above average legroom (32 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 174 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Fort Lauderdale-Hollywood International Airport",
+            "id": "FLL",
+            "time": "2025-10-18 20:35"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 23:16"
+          },
+          "duration": 341,
+          "airplane": "Airbus A320",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 2501",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 378 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 89,
+          "name": "Fort Lauderdale-Hollywood International Airport",
+          "id": "FLL"
+        }
+      ],
+      "total_duration": 626,
+      "carbon_emissions": {
+        "this_flight": 553000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 54
+      },
+      "price": 377,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZ3hDTmpRM01YeENOakkxTURFYUN3aUVwZ0lRQWhvRFZWTkVPQnh3aEtZQyIsW1siTEdBIiwiMjAyNS0xMC0xOCIsIkZMTCIsbnVsbCwiQjYiLCI0NzEiXSxbIkZMTCIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkI2IiwiMjUwMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 06:45"
+          },
+          "arrival_airport": {
+            "name": "Dallas Love Field",
+            "id": "DAL",
+            "time": "2025-10-18 09:25"
+          },
+          "duration": 220,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 2175",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 157 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Dallas Love Field",
+            "id": "DAL",
+            "time": "2025-10-18 11:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 12:15"
+          },
+          "duration": 195,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 2116",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 146 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 95,
+          "name": "Dallas Love Field",
+          "id": "DAL"
+        }
+      ],
+      "total_duration": 510,
+      "carbon_emissions": {
+        "this_flight": 305000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -15
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFYVGpJeE56VjhWMDR5TVRFMkdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJEQUwiLG51bGwsIldOIiwiMjE3NSJdLFsiREFMIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiV04iLCIyMTE2Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 08:25"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-10-18 10:02"
+          },
+          "duration": 157,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1554",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 120 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-10-18 11:06"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 13:37"
+          },
+          "duration": 271,
+          "airplane": "Airbus A321neo",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1584",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 183 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 64,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 492,
+      "carbon_emissions": {
+        "this_flight": 304000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -15
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFWUVRFMU5UUjhWVUV4TlRnMEdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJPUkQiLG51bGwsIlVBIiwiMTU1NCJdLFsiT1JEIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiVUEiLCIxNTg0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 10:24"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-10-18 11:54"
+          },
+          "duration": 90,
+          "airplane": "Embraer 175",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 4022",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 80 kg"
+          ],
+          "plane_and_crew_by": "Mesa Airlines DBA United Express"
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-10-18 13:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 15:31"
+          },
+          "duration": 331,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1689",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 298 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 66,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        }
+      ],
+      "total_duration": 487,
+      "carbon_emissions": {
+        "this_flight": 379000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 6
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFWUVRRd01qSjhWVUV4TmpnNUdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJJQUQiLG51bGwsIlVBIiwiNDAyMiJdLFsiSUFEIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiVUEiLCIxNjg5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 12:35"
+          },
+          "arrival_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-18 14:50"
+          },
+          "duration": 255,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2200",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 188 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-18 15:46"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 17:15"
+          },
+          "duration": 149,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 564",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 127 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 56,
+          "name": "Denver International Airport",
+          "id": "DEN"
+        }
+      ],
+      "total_duration": 460,
+      "carbon_emissions": {
+        "this_flight": 317000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -11
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZ3hWUVRJeU1EQjhWVUUxTmpRYUN3aXVxd0lRQWhvRFZWTkVPQnh3cnFzQyIsW1siTEdBIiwiMjAyNS0xMC0xOCIsIkRFTiIsbnVsbCwiVUEiLCIyMjAwIl0sWyJERU4iLCIyMDI1LTEwLTE4IiwiTEFYIixudWxsLCJVQSIsIjU2NCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 14:20"
+          },
+          "arrival_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-10-18 15:57"
+          },
+          "duration": 157,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2360",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 120 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Chicago O'Hare International Airport",
+            "id": "ORD",
+            "time": "2025-10-18 16:40"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 19:06"
+          },
+          "duration": 266,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1172",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 221 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 43,
+          "name": "Chicago O'Hare International Airport",
+          "id": "ORD"
+        }
+      ],
+      "total_duration": 466,
+      "carbon_emissions": {
+        "this_flight": 342000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -4
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFWUVRJek5qQjhWVUV4TVRjeUdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJPUkQiLG51bGwsIlVBIiwiMjM2MCJdLFsiT1JEIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiVUEiLCIxMTcyIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "LaGuardia Airport",
+            "id": "LGA",
+            "time": "2025-10-18 14:56"
+          },
+          "arrival_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-10-18 16:28"
+          },
+          "duration": 92,
+          "airplane": "Embraer 170",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 3688",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 83 kg"
+          ],
+          "often_delayed_by_over_30_min": true,
+          "plane_and_crew_by": "Republic Airways DBA United Express"
+        },
+        {
+          "departure_airport": {
+            "name": "Dulles International Airport",
+            "id": "IAD",
+            "time": "2025-10-18 17:42"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 20:14"
+          },
+          "duration": 332,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2276",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 336 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 74,
+          "name": "Dulles International Airport",
+          "id": "IAD"
+        }
+      ],
+      "total_duration": 498,
+      "carbon_emissions": {
+        "this_flight": 420000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 17
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJYVVSdFZFUXhhSFZaWVd0QlFUWklURkZDUnkwdExTMHRMUzB0TFd4dFltaGxOa0ZCUVVGQlIycDJlaTFSUTJvMVRXMUJFZzFWUVRNMk9EaDhWVUV5TWpjMkdnc0lycXNDRUFJYUExVlRSRGdjY0s2ckFnPT0iLFtbIkxHQSIsIjIwMjUtMTAtMTgiLCJJQUQiLG51bGwsIlVBIiwiMzY4OCJdLFsiSUFEIiwiMjAyNS0xMC0xOCIsIkxBWCIsbnVsbCwiVUEiLCIyMjc2Il1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 232,
+    "price_level": "high",
+    "typical_price_range": [
+      100,
+      165
+    ],
+    "price_history": [
+      [
+        1755316800,
+        92
+      ],
+      [
+        1755403200,
+        92
+      ],
+      [
+        1755489600,
+        92
+      ],
+      [
+        1755576000,
+        92
+      ],
+      [
+        1755662400,
+        118
+      ],
+      [
+        1755748800,
+        120
+      ],
+      [
+        1755835200,
+        120
+      ],
+      [
+        1755921600,
+        120
+      ],
+      [
+        1756008000,
+        112
+      ],
+      [
+        1756094400,
+        112
+      ],
+      [
+        1756180800,
+        112
+      ],
+      [
+        1756267200,
+        112
+      ],
+      [
+        1756353600,
+        112
+      ],
+      [
+        1756440000,
+        112
+      ],
+      [
+        1756526400,
+        112
+      ],
+      [
+        1756612800,
+        112
+      ],
+      [
+        1756699200,
+        112
+      ],
+      [
+        1756785600,
+        112
+      ],
+      [
+        1756872000,
+        112
+      ],
+      [
+        1756958400,
+        112
+      ],
+      [
+        1757044800,
+        111
+      ],
+      [
+        1757131200,
+        111
+      ],
+      [
+        1757217600,
+        112
+      ],
+      [
+        1757304000,
+        112
+      ],
+      [
+        1757390400,
+        112
+      ],
+      [
+        1757476800,
+        117
+      ],
+      [
+        1757563200,
+        116
+      ],
+      [
+        1757649600,
+        111
+      ],
+      [
+        1757736000,
+        111
+      ],
+      [
+        1757822400,
+        111
+      ],
+      [
+        1757908800,
+        111
+      ],
+      [
+        1757995200,
+        111
+      ],
+      [
+        1758081600,
+        111
+      ],
+      [
+        1758168000,
+        111
+      ],
+      [
+        1758254400,
+        111
+      ],
+      [
+        1758340800,
+        111
+      ],
+      [
+        1758427200,
+        112
+      ],
+      [
+        1758513600,
+        112
+      ],
+      [
+        1758600000,
+        112
+      ],
+      [
+        1758686400,
+        112
+      ],
+      [
+        1758772800,
+        112
+      ],
+      [
+        1758859200,
+        112
+      ],
+      [
+        1758945600,
+        111
+      ],
+      [
+        1759032000,
+        111
+      ],
+      [
+        1759118400,
+        111
+      ],
+      [
+        1759204800,
+        111
+      ],
+      [
+        1759291200,
+        112
+      ],
+      [
+        1759377600,
+        112
+      ],
+      [
+        1759464000,
+        112
+      ],
+      [
+        1759550400,
+        112
+      ],
+      [
+        1759636800,
+        144
+      ],
+      [
+        1759723200,
+        173
+      ],
+      [
+        1759809600,
+        165
+      ],
+      [
+        1759896000,
+        165
+      ],
+      [
+        1759982400,
+        165
+      ],
+      [
+        1760068800,
+        165
+      ],
+      [
+        1760155200,
+        173
+      ],
+      [
+        1760241600,
+        173
+      ],
+      [
+        1760328000,
+        173
+      ],
+      [
+        1760414400,
+        173
+      ],
+      [
+        1760500800,
+        232
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "LGA",
+            "name": "LaGuardia Airport"
+          },
+          "city": "New York",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRa1dwH1NZQk4dsbPiyA9Vrq2RX75jXSZ-OkHn7NkLHl-11HercqDXoZ4p2cDxJkH6vca2degawrCzHEQ",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEaUa9NsdPWGpAUGkTApkZDT_4M6_6V8wTcC0v1b1wJAJX-BuMSiipXbsoznGgcI1xLOc5QiTcR_xovexgjdOz0gqQe0tRQ9h0bUkZ07Q"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "LAX",
+            "name": "Los Angeles International Airport"
+          },
+          "city": "Los Angeles",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFuS2Y5_b7ZIl-g2Hm7jnG7zoi2uk0CQltF_DFbp6gIzfYznnOB6uJm9d6ePT5PJO5XM1j8vigwCNxRA",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4B0K7etaN3KgEgtU5dJajdcmLtB5QSDRYr4KqcwH1iWxMm7TIqwtcUTTHD5AmNyeeFIpVpTnbSDeuD_HVlkYzOam-TO9w1worRSGRTUo"
+        }
+      ]
+    }
+  ]
+}

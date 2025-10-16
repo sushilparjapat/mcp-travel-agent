@@ -1,0 +1,959 @@
+{
+  "search_metadata": {
+    "search_id": "EWR_LAX_2025-10-18_20251015_222329",
+    "departure": "EWR",
+    "arrival": "LAX",
+    "outbound_date": "2025-10-18",
+    "return_date": null,
+    "trip_type": "One way",
+    "passengers": {
+      "adults": 1,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-10-15T22:23:29.158502"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 16:40"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 19:41"
+          },
+          "duration": 361,
+          "airplane": "Airbus A320",
+          "airline": "Spirit",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NK.png",
+          "travel_class": "Economy",
+          "flight_number": "NK 2223",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Wi-Fi for a fee",
+            "Carbon emissions estimate: 364 kg"
+          ]
+        }
+      ],
+      "total_duration": 361,
+      "carbon_emissions": {
+        "this_flight": 365000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 2
+      },
+      "price": 255,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/NK.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pPU3pJeU1qTWFDd2lieHdFUUFob0RWVk5FT0J4d204Y0JlQUU9IixbWyJFV1IiLCIyMDI1LTEwLTE4IiwiTEFYIixudWxsLCJOSyIsIjIyMjMiXV1d"
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 09:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 11:54"
+          },
+          "duration": 354,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 289",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 268 kg"
+          ]
+        }
+      ],
+      "total_duration": 354,
+      "carbon_emissions": {
+        "this_flight": 268000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -25
+      },
+      "price": 263,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1ZCVXpJNE9Sb0xDUGJNQVJBQ0dnTlZVMFE0SEhEMnpBRT0iLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkFTIiwiMjg5Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 09:10"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 12:13"
+          },
+          "duration": 363,
+          "airplane": "Airbus A320",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 1573",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 428 kg"
+          ]
+        }
+      ],
+      "total_duration": 363,
+      "carbon_emissions": {
+        "this_flight": 428000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 374,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pDTmpFMU56TWFDd2prb3dJUUFob0RWVk5FT0J4dzVLTUMiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkI2IiwiMTU3MyJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 19:54"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 22:59"
+          },
+          "duration": 365,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 287",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 268 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 365,
+      "carbon_emissions": {
+        "this_flight": 268000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -25
+      },
+      "price": 313,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1ZCVXpJNE54b0xDUDd6QVJBQ0dnTlZVMFE0SEhEKzh3RT0iLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkFTIiwiMjg3Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 17:10"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 20:07"
+          },
+          "duration": 357,
+          "airplane": "Airbus A320",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 1873",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 428 kg"
+          ]
+        }
+      ],
+      "total_duration": 357,
+      "carbon_emissions": {
+        "this_flight": 428000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 374,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pDTmpFNE56TWFDd2prb3dJUUFob0RWVk5FT0J4dzVLTUMiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkI2IiwiMTg3MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 20:25"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 23:23"
+          },
+          "duration": 358,
+          "airplane": "Airbus A320",
+          "airline": "JetBlue",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+          "travel_class": "Economy",
+          "flight_number": "B6 2073",
+          "legroom": "33 in",
+          "extensions": [
+            "Above average legroom (33 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 428 kg"
+          ]
+        }
+      ],
+      "total_duration": 358,
+      "carbon_emissions": {
+        "this_flight": 428000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 374,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/B6.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pDTmpJd056TWFDd2prb3dJUUFob0RWVk5FT0J4dzVLTUMiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIkI2IiwiMjA3MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 06:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 08:55"
+          },
+          "duration": 355,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2434",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ]
+        }
+      ],
+      "total_duration": 355,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJME16UWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjQzNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 07:00"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 09:55"
+          },
+          "duration": 355,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2445",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ]
+        }
+      ],
+      "total_duration": 355,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJME5EVWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjQ0NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 09:05"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 12:00"
+          },
+          "duration": 355,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1215",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 355,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRFeU1UVWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMTIxNSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 10:30"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 13:27"
+          },
+          "duration": 357,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2679",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ]
+        }
+      ],
+      "total_duration": 357,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJMk56a2FDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjY3OSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 11:45"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 14:27"
+          },
+          "duration": 342,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1321",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 291 kg"
+          ]
+        }
+      ],
+      "total_duration": 342,
+      "carbon_emissions": {
+        "this_flight": 292000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -18
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRFek1qRWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMTMyMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 14:10"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 17:05"
+          },
+          "duration": 355,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2191",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ]
+        }
+      ],
+      "total_duration": 355,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJeE9URWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjE5MSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 15:55"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 18:41"
+          },
+          "duration": 346,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1578",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 298 kg"
+          ]
+        }
+      ],
+      "total_duration": 346,
+      "carbon_emissions": {
+        "this_flight": 298000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -17
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRFMU56Z2FDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMTU3OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 17:20"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 20:13"
+          },
+          "duration": 353,
+          "airplane": "Boeing 777",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2238",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 291 kg"
+          ]
+        }
+      ],
+      "total_duration": 353,
+      "carbon_emissions": {
+        "this_flight": 292000,
+        "typical_for_this_route": 358000,
+        "difference_percent": -18
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJeU16Z2FDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjIzOCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "Newark Liberty International Airport",
+            "id": "EWR",
+            "time": "2025-10-18 18:30"
+          },
+          "arrival_airport": {
+            "name": "Los Angeles International Airport",
+            "id": "LAX",
+            "time": "2025-10-18 21:34"
+          },
+          "duration": 364,
+          "airplane": "Boeing 757",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2641",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 429 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 364,
+      "carbon_emissions": {
+        "this_flight": 429000,
+        "typical_for_this_route": 358000,
+        "difference_percent": 20
+      },
+      "price": 384,
+      "type": "One way",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee"
+      ],
+      "booking_token": "WyJDalJJTXpaUVdEQnpUVlZEZVVGQlEzRTFYMUZDUnkwdExTMHRMUzB0TFhaM2Fua3lORUZCUVVGQlIycDJlaTFOU0ZFeldqSkJFZ1pWUVRJMk5ERWFDd2pOcXdJUUFob0RWVk5FT0J4d3phc0MiLFtbIkVXUiIsIjIwMjUtMTAtMTgiLCJMQVgiLG51bGwsIlVBIiwiMjY0MSJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 255,
+    "price_level": "high",
+    "typical_price_range": [
+      85,
+      175
+    ],
+    "price_history": [
+      [
+        1755316800,
+        93
+      ],
+      [
+        1755403200,
+        93
+      ],
+      [
+        1755489600,
+        93
+      ],
+      [
+        1755576000,
+        93
+      ],
+      [
+        1755662400,
+        98
+      ],
+      [
+        1755748800,
+        98
+      ],
+      [
+        1755835200,
+        98
+      ],
+      [
+        1755921600,
+        98
+      ],
+      [
+        1756008000,
+        98
+      ],
+      [
+        1756094400,
+        98
+      ],
+      [
+        1756180800,
+        88
+      ],
+      [
+        1756267200,
+        88
+      ],
+      [
+        1756353600,
+        88
+      ],
+      [
+        1756440000,
+        93
+      ],
+      [
+        1756526400,
+        93
+      ],
+      [
+        1756612800,
+        93
+      ],
+      [
+        1756699200,
+        93
+      ],
+      [
+        1756785600,
+        93
+      ],
+      [
+        1756872000,
+        88
+      ],
+      [
+        1756958400,
+        88
+      ],
+      [
+        1757044800,
+        88
+      ],
+      [
+        1757131200,
+        88
+      ],
+      [
+        1757217600,
+        88
+      ],
+      [
+        1757304000,
+        68
+      ],
+      [
+        1757390400,
+        68
+      ],
+      [
+        1757476800,
+        68
+      ],
+      [
+        1757563200,
+        68
+      ],
+      [
+        1757649600,
+        68
+      ],
+      [
+        1757736000,
+        68
+      ],
+      [
+        1757822400,
+        88
+      ],
+      [
+        1757908800,
+        88
+      ],
+      [
+        1757995200,
+        87
+      ],
+      [
+        1758081600,
+        88
+      ],
+      [
+        1758168000,
+        88
+      ],
+      [
+        1758254400,
+        88
+      ],
+      [
+        1758340800,
+        88
+      ],
+      [
+        1758427200,
+        88
+      ],
+      [
+        1758513600,
+        88
+      ],
+      [
+        1758600000,
+        58
+      ],
+      [
+        1758686400,
+        58
+      ],
+      [
+        1758772800,
+        79
+      ],
+      [
+        1758859200,
+        88
+      ],
+      [
+        1758945600,
+        88
+      ],
+      [
+        1759032000,
+        88
+      ],
+      [
+        1759118400,
+        88
+      ],
+      [
+        1759204800,
+        88
+      ],
+      [
+        1759291200,
+        114
+      ],
+      [
+        1759377600,
+        114
+      ],
+      [
+        1759464000,
+        88
+      ],
+      [
+        1759550400,
+        88
+      ],
+      [
+        1759636800,
+        114
+      ],
+      [
+        1759723200,
+        173
+      ],
+      [
+        1759809600,
+        185
+      ],
+      [
+        1759896000,
+        185
+      ],
+      [
+        1759982400,
+        220
+      ],
+      [
+        1760068800,
+        185
+      ],
+      [
+        1760155200,
+        185
+      ],
+      [
+        1760241600,
+        248
+      ],
+      [
+        1760328000,
+        178
+      ],
+      [
+        1760414400,
+        248
+      ],
+      [
+        1760500800,
+        255
+      ]
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "EWR",
+            "name": "Newark Liberty International Airport"
+          },
+          "city": "Newark",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSVSHJRQUacgXbljJliEfJExMDrajiLyrcqBpTDrFTtTWEhRRBMAEO76FQqrFPU2swFT3Q3cWcbeO8Tw",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9KX68DZATrjpYLwlFuQnsmKfJm83iKCU4RTdjv2smpe3tVA1YxHO0Km6xxwD3wnL3-ZI3zci1P1l7bhflFCeqnfmxbEUMppLOK-BiaaQ"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "LAX",
+            "name": "Los Angeles International Airport"
+          },
+          "city": "Los Angeles",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFuS2Y5_b7ZIl-g2Hm7jnG7zoi2uk0CQltF_DFbp6gIzfYznnOB6uJm9d6ePT5PJO5XM1j8vigwCNxRA",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT4B0K7etaN3KgEgtU5dJajdcmLtB5QSDRYr4KqcwH1iWxMm7TIqwtcUTTHD5AmNyeeFIpVpTnbSDeuD_HVlkYzOam-TO9w1worRSGRTUo"
+        }
+      ]
+    }
+  ]
+}

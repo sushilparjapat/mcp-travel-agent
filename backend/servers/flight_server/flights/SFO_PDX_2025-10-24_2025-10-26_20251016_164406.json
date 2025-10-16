@@ -1,0 +1,706 @@
+{
+  "search_metadata": {
+    "search_id": "SFO_PDX_2025-10-24_2025-10-26_20251016_164406",
+    "departure": "SFO",
+    "arrival": "PDX",
+    "outbound_date": "2025-10-24",
+    "return_date": "2025-10-26",
+    "trip_type": "Round trip",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-10-16T16:44:06.080050"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 15:01"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 16:54"
+          },
+          "duration": 113,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 1302",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 202 kg"
+          ]
+        }
+      ],
+      "total_duration": 113,
+      "carbon_emissions": {
+        "this_flight": 203000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -8
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pCVXpFek1ESWFDd2lJM0FRUUFob0RWVk5FT0J4d2lOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIkFTIiwiMTMwMiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 10:52"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 12:42"
+          },
+          "duration": 110,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2363",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 167 kg"
+          ]
+        }
+      ],
+      "total_duration": 110,
+      "carbon_emissions": {
+        "this_flight": 167000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -24
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRJek5qTWFDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMjM2MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 16:45"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 18:33"
+          },
+          "duration": 108,
+          "airplane": "Boeing 737",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2611",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 194 kg"
+          ]
+        }
+      ],
+      "total_duration": 108,
+      "carbon_emissions": {
+        "this_flight": 195000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -11
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRJMk1URWFDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMjYxMSJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 08:00"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 09:47"
+          },
+          "duration": 107,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 138",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 202 kg"
+          ]
+        }
+      ],
+      "total_duration": 107,
+      "carbon_emissions": {
+        "this_flight": 203000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -8
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1ZCVXpFek9Cb0xDSWpjQkJBQ0dnTlZVMFE0SEhDSTNBUT0iLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIkFTIiwiMTM4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 19:01"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 20:50"
+          },
+          "duration": 109,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 524",
+          "ticket_also_sold_by": [
+            "American",
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 202 kg"
+          ]
+        }
+      ],
+      "total_duration": 109,
+      "carbon_emissions": {
+        "this_flight": 203000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -8
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1ZCVXpVeU5Cb0xDSWpjQkJBQ0dnTlZVMFE0SEhDSTNBUT0iLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIkFTIiwiNTI0Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 21:47"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 23:32"
+          },
+          "duration": 105,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2163",
+          "ticket_also_sold_by": [
+            "American",
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 278 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 279000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 27
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pCVXpJeE5qTWFDd2lJM0FRUUFob0RWVk5FT0J4d2lOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIkFTIiwiMjE2MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 07:15"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 09:00"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1027",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "On-demand video",
+            "Carbon emissions estimate: 167 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 167000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -24
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRFd01qY2FDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMTAyNyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 19:03"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 20:50"
+          },
+          "duration": 107,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2646",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 157 kg"
+          ]
+        }
+      ],
+      "total_duration": 107,
+      "carbon_emissions": {
+        "this_flight": 158000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -28
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRJMk5EWWFDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMjY0NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 20:58"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 22:45"
+          },
+          "duration": 107,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1168",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 208 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 107,
+      "carbon_emissions": {
+        "this_flight": 209000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -5
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRFeE5qZ2FDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMTE2OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 22:40"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-25 00:28"
+          },
+          "duration": 108,
+          "airplane": "Boeing 737MAX 9 Passenger",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 2475",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 157 kg"
+          ]
+        }
+      ],
+      "total_duration": 108,
+      "carbon_emissions": {
+        "this_flight": 158000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -28
+      },
+      "price": 774,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRJME56VWFDd2pRM0FRUUFob0RWVk5FT0J4dzBOd0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMjQ3NSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 12:55"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 14:42"
+          },
+          "duration": 107,
+          "airplane": "Airbus A320",
+          "airline": "United",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+          "travel_class": "Economy",
+          "flight_number": "UA 1668",
+          "legroom": "30 in",
+          "extensions": [
+            "Average legroom (30 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 208 kg"
+          ]
+        }
+      ],
+      "total_duration": 107,
+      "carbon_emissions": {
+        "this_flight": 209000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -5
+      },
+      "price": 811,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/UA.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1pWUVRFMk5qZ2FDd2lZK1FRUUFob0RWVk5FT0J4d21Qa0UiLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIlVBIiwiMTY2OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 06:00"
+          },
+          "arrival_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-24 08:20"
+          },
+          "duration": 140,
+          "airplane": "Airbus A321",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 2721",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Free Wi-Fi",
+            "In-seat power & USB outlets",
+            "Live TV",
+            "Carbon emissions estimate: 281 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Seattle\u2013Tacoma International Airport",
+            "id": "SEA",
+            "time": "2025-10-24 09:29"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 10:30"
+          },
+          "duration": 61,
+          "airplane": "Embraer 175",
+          "airline": "Delta",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+          "travel_class": "Economy",
+          "flight_number": "DL 3818",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Carbon emissions estimate: 143 kg"
+          ],
+          "plane_and_crew_by": "SkyWest DBA Delta Connection"
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 69,
+          "name": "Seattle\u2013Tacoma International Airport",
+          "id": "SEA"
+        }
+      ],
+      "total_duration": 270,
+      "carbon_emissions": {
+        "this_flight": 425000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 93
+      },
+      "price": 865,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/DL.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZzFFVERJM01qRjhSRXd6T0RFNEdnc0l5cU1GRUFJYUExVlRSRGdjY01xakJRPT0iLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJTRUEiLG51bGwsIkRMIiwiMjcyMSJdLFsiU0VBIiwiMjAyNS0xMC0yNCIsIlBEWCIsbnVsbCwiREwiLCIzODE4Il1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Francisco International Airport",
+            "id": "SFO",
+            "time": "2025-10-24 11:37"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-24 13:28"
+          },
+          "duration": 111,
+          "airplane": "Boeing 737",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 835",
+          "ticket_also_sold_by": [
+            "American"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "In-seat power & USB outlets",
+            "Stream media to your device",
+            "Carbon emissions estimate: 202 kg"
+          ]
+        }
+      ],
+      "total_duration": 111,
+      "carbon_emissions": {
+        "this_flight": 203000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -8
+      },
+      "price": 874,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJVjNOWU1XVndUV1pNZW1OQlFqRkJNMEZDUnkwdExTMHRMUzB0TFhCbVlXa3lORUZCUVVGQlIycDNNRE56UW1oNk5EQkJFZ1ZCVXpnek5Sb0xDSmlxQlJBQ0dnTlZVMFE0SEhDWXFnVT0iLFtbIlNGTyIsIjIwMjUtMTAtMjQiLCJQRFgiLG51bGwsIkFTIiwiODM1Il1dXQ=="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 774,
+    "price_level": "high",
+    "typical_price_range": [
+      240,
+      435
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "SFO",
+            "name": "San Francisco International Airport"
+          },
+          "city": "San Francisco",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhLXJKshv7iRU8OcvmRyc3ZHyoSy8ZfBGcntDNb8iTixSq8i7XIcn9tZMPIcM6-rm7kKcu2VQS3BKoYw",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbcxCKTUaj5vz8PrFeUUBVCm8J3fXiMRJpnz4UfNsPeLOkP1EZK9sez1dEX--y-VLxpPAaVB5zo1hzXliHeLl3l0VFwrWrVz7UCQpkzCY"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "SFO",
+            "name": "San Francisco International Airport"
+          },
+          "city": "San Francisco",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQhLXJKshv7iRU8OcvmRyc3ZHyoSy8ZfBGcntDNb8iTixSq8i7XIcn9tZMPIcM6-rm7kKcu2VQS3BKoYw",
+          "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbcxCKTUaj5vz8PrFeUUBVCm8J3fXiMRJpnz4UfNsPeLOkP1EZK9sez1dEX--y-VLxpPAaVB5zo1hzXliHeLl3l0VFwrWrVz7UCQpkzCY"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1374 @@
+{
+  "search_metadata": {
+    "search_id": "currency_jpy_usd_20251016_095009",
+    "from_currency": "JPY",
+    "to_currency": "USD",
+    "amount": 1.0,
+    "query": "JPY-USD",
+    "search_timestamp": "2025-10-16T09:50:09.680070",
+    "search_type": "currency"
+  },
+  "summary": {
+    "title": "Japanese Yen to United States Dollar",
+    "price": "0.0066",
+    "extracted_price": 0.006625259,
+    "price_movement": {
+      "percentage": 0.0258,
+      "value": 1.712e-06,
+      "movement": "Up"
+    },
+    "date": "Oct 16 2025, 04:18:18 AM UTC",
+    "extensions": [
+      "Oct 16, 4:18:18 AM UTC"
+    ]
+  },
+  "graph": [
+    {
+      "price": 0.006622473,
+      "date": "Oct 16 2025, 12:00 AM UTC"
+    },
+    {
+      "price": 0.006619207,
+      "date": "Oct 16 2025, 12:01 AM UTC"
+    },
+    {
+      "price": 0.006620105,
+      "date": "Oct 16 2025, 12:02 AM UTC"
+    },
+    {
+      "price": 0.0066246224,
+      "date": "Oct 16 2025, 12:03 AM UTC"
+    },
+    {
+      "price": 0.006623525,
+      "date": "Oct 16 2025, 12:04 AM UTC"
+    },
+    {
+      "price": 0.006622846,
+      "date": "Oct 16 2025, 12:06 AM UTC"
+    },
+    {
+      "price": 0.00662188068,
+      "date": "Oct 16 2025, 12:07 AM UTC"
+    },
+    {
+      "price": 0.006624622,
+      "date": "Oct 16 2025, 12:08 AM UTC"
+    },
+    {
+      "price": 0.006624578,
+      "date": "Oct 16 2025, 12:09 AM UTC"
+    },
+    {
+      "price": 0.006627586,
+      "date": "Oct 16 2025, 12:10 AM UTC"
+    },
+    {
+      "price": 0.006627344,
+      "date": "Oct 16 2025, 12:11 AM UTC"
+    },
+    {
+      "price": 0.006627081,
+      "date": "Oct 16 2025, 12:12 AM UTC"
+    },
+    {
+      "price": 0.00662804724,
+      "date": "Oct 16 2025, 12:13 AM UTC"
+    },
+    {
+      "price": 0.00662897,
+      "date": "Oct 16 2025, 12:14 AM UTC"
+    },
+    {
+      "price": 0.006631322,
+      "date": "Oct 16 2025, 12:15 AM UTC"
+    },
+    {
+      "price": 0.006629959,
+      "date": "Oct 16 2025, 12:16 AM UTC"
+    },
+    {
+      "price": 0.006630992,
+      "date": "Oct 16 2025, 12:17 AM UTC"
+    },
+    {
+      "price": 0.006633191,
+      "date": "Oct 16 2025, 12:18 AM UTC"
+    },
+    {
+      "price": 0.00663,
+      "date": "Oct 16 2025, 12:19 AM UTC"
+    },
+    {
+      "price": 0.006634467,
+      "date": "Oct 16 2025, 12:20 AM UTC"
+    },
+    {
+      "price": 0.006634974,
+      "date": "Oct 16 2025, 12:21 AM UTC"
+    },
+    {
+      "price": 0.006634666,
+      "date": "Oct 16 2025, 12:22 AM UTC"
+    },
+    {
+      "price": 0.006636801,
+      "date": "Oct 16 2025, 12:23 AM UTC"
+    },
+    {
+      "price": 0.00663548,
+      "date": "Oct 16 2025, 12:24 AM UTC"
+    },
+    {
+      "price": 0.006636427,
+      "date": "Oct 16 2025, 12:26 AM UTC"
+    },
+    {
+      "price": 0.006639335,
+      "date": "Oct 16 2025, 12:28 AM UTC"
+    },
+    {
+      "price": 0.006639048,
+      "date": "Oct 16 2025, 12:29 AM UTC"
+    },
+    {
+      "price": 0.006640305,
+      "date": "Oct 16 2025, 12:30 AM UTC"
+    },
+    {
+      "price": 0.00664026056,
+      "date": "Oct 16 2025, 12:31 AM UTC"
+    },
+    {
+      "price": 0.006640702,
+      "date": "Oct 16 2025, 12:32 AM UTC"
+    },
+    {
+      "price": 0.006640966,
+      "date": "Oct 16 2025, 12:33 AM UTC"
+    },
+    {
+      "price": 0.00664303959,
+      "date": "Oct 16 2025, 12:34 AM UTC"
+    },
+    {
+      "price": 0.006643282,
+      "date": "Oct 16 2025, 12:35 AM UTC"
+    },
+    {
+      "price": 0.00664262,
+      "date": "Oct 16 2025, 12:36 AM UTC"
+    },
+    {
+      "price": 0.006641407,
+      "date": "Oct 16 2025, 12:37 AM UTC"
+    },
+    {
+      "price": 0.00664193652,
+      "date": "Oct 16 2025, 12:38 AM UTC"
+    },
+    {
+      "price": 0.006642797,
+      "date": "Oct 16 2025, 12:39 AM UTC"
+    },
+    {
+      "price": 0.006641782,
+      "date": "Oct 16 2025, 12:40 AM UTC"
+    },
+    {
+      "price": 0.00664211299,
+      "date": "Oct 16 2025, 12:41 AM UTC"
+    },
+    {
+      "price": 0.006641694,
+      "date": "Oct 16 2025, 12:42 AM UTC"
+    },
+    {
+      "price": 0.006640305,
+      "date": "Oct 16 2025, 12:43 AM UTC"
+    },
+    {
+      "price": 0.006640415,
+      "date": "Oct 16 2025, 12:44 AM UTC"
+    },
+    {
+      "price": 0.006641407,
+      "date": "Oct 16 2025, 12:45 AM UTC"
+    },
+    {
+      "price": 0.00664070152,
+      "date": "Oct 16 2025, 12:46 AM UTC"
+    },
+    {
+      "price": 0.006639269,
+      "date": "Oct 16 2025, 12:47 AM UTC"
+    },
+    {
+      "price": 0.006638343,
+      "date": "Oct 16 2025, 12:48 AM UTC"
+    },
+    {
+      "price": 0.006637374,
+      "date": "Oct 16 2025, 12:50 AM UTC"
+    },
+    {
+      "price": 0.006637286,
+      "date": "Oct 16 2025, 12:52 AM UTC"
+    },
+    {
+      "price": 0.006638894,
+      "date": "Oct 16 2025, 12:53 AM UTC"
+    },
+    {
+      "price": 0.006638431,
+      "date": "Oct 16 2025, 12:54 AM UTC"
+    },
+    {
+      "price": 0.006638762,
+      "date": "Oct 16 2025, 12:55 AM UTC"
+    },
+    {
+      "price": 0.006636449,
+      "date": "Oct 16 2025, 12:56 AM UTC"
+    },
+    {
+      "price": 0.006636361,
+      "date": "Oct 16 2025, 12:58 AM UTC"
+    },
+    {
+      "price": 0.00664,
+      "date": "Oct 16 2025, 12:59 AM UTC"
+    },
+    {
+      "price": 0.006636008,
+      "date": "Oct 16 2025, 01:00 AM UTC"
+    },
+    {
+      "price": 0.006634798,
+      "date": "Oct 16 2025, 01:01 AM UTC"
+    },
+    {
+      "price": 0.006633653,
+      "date": "Oct 16 2025, 01:02 AM UTC"
+    },
+    {
+      "price": 0.006633565,
+      "date": "Oct 16 2025, 01:03 AM UTC"
+    },
+    {
+      "price": 0.006634093,
+      "date": "Oct 16 2025, 01:04 AM UTC"
+    },
+    {
+      "price": 0.006633389,
+      "date": "Oct 16 2025, 01:05 AM UTC"
+    },
+    {
+      "price": 0.006633763,
+      "date": "Oct 16 2025, 01:06 AM UTC"
+    },
+    {
+      "price": 0.00663592,
+      "date": "Oct 16 2025, 01:07 AM UTC"
+    },
+    {
+      "price": 0.006634467,
+      "date": "Oct 16 2025, 01:09 AM UTC"
+    },
+    {
+      "price": 0.006634952,
+      "date": "Oct 16 2025, 01:10 AM UTC"
+    },
+    {
+      "price": 0.006636757,
+      "date": "Oct 16 2025, 01:12 AM UTC"
+    },
+    {
+      "price": 0.006635986,
+      "date": "Oct 16 2025, 01:13 AM UTC"
+    },
+    {
+      "price": 0.006634908,
+      "date": "Oct 16 2025, 01:15 AM UTC"
+    },
+    {
+      "price": 0.00663625,
+      "date": "Oct 16 2025, 01:16 AM UTC"
+    },
+    {
+      "price": 0.006636317,
+      "date": "Oct 16 2025, 01:17 AM UTC"
+    },
+    {
+      "price": 0.006632729,
+      "date": "Oct 16 2025, 01:18 AM UTC"
+    },
+    {
+      "price": 0.00663437935,
+      "date": "Oct 16 2025, 01:19 AM UTC"
+    },
+    {
+      "price": 0.00663,
+      "date": "Oct 16 2025, 01:20 AM UTC"
+    },
+    {
+      "price": 0.006636581,
+      "date": "Oct 16 2025, 01:21 AM UTC"
+    },
+    {
+      "price": 0.00663688916,
+      "date": "Oct 16 2025, 01:22 AM UTC"
+    },
+    {
+      "price": 0.006637506,
+      "date": "Oct 16 2025, 01:23 AM UTC"
+    },
+    {
+      "price": 0.006636845,
+      "date": "Oct 16 2025, 01:24 AM UTC"
+    },
+    {
+      "price": 0.006635348,
+      "date": "Oct 16 2025, 01:25 AM UTC"
+    },
+    {
+      "price": 0.006636008,
+      "date": "Oct 16 2025, 01:26 AM UTC"
+    },
+    {
+      "price": 0.006635524,
+      "date": "Oct 16 2025, 01:27 AM UTC"
+    },
+    {
+      "price": 0.00663651477,
+      "date": "Oct 16 2025, 01:28 AM UTC"
+    },
+    {
+      "price": 0.006636405,
+      "date": "Oct 16 2025, 01:29 AM UTC"
+    },
+    {
+      "price": 0.006636493,
+      "date": "Oct 16 2025, 01:30 AM UTC"
+    },
+    {
+      "price": 0.006635106,
+      "date": "Oct 16 2025, 01:31 AM UTC"
+    },
+    {
+      "price": 0.006636427,
+      "date": "Oct 16 2025, 01:32 AM UTC"
+    },
+    {
+      "price": 0.00663493,
+      "date": "Oct 16 2025, 01:33 AM UTC"
+    },
+    {
+      "price": 0.006634908,
+      "date": "Oct 16 2025, 01:34 AM UTC"
+    },
+    {
+      "price": 0.006638453,
+      "date": "Oct 16 2025, 01:35 AM UTC"
+    },
+    {
+      "price": 0.00663854138,
+      "date": "Oct 16 2025, 01:36 AM UTC"
+    },
+    {
+      "price": 0.006640503,
+      "date": "Oct 16 2025, 01:37 AM UTC"
+    },
+    {
+      "price": 0.006639577,
+      "date": "Oct 16 2025, 01:38 AM UTC"
+    },
+    {
+      "price": 0.006639379,
+      "date": "Oct 16 2025, 01:39 AM UTC"
+    },
+    {
+      "price": 0.006640856,
+      "date": "Oct 16 2025, 01:40 AM UTC"
+    },
+    {
+      "price": 0.006641209,
+      "date": "Oct 16 2025, 01:42 AM UTC"
+    },
+    {
+      "price": 0.00664045899,
+      "date": "Oct 16 2025, 01:43 AM UTC"
+    },
+    {
+      "price": 0.006640856,
+      "date": "Oct 16 2025, 01:44 AM UTC"
+    },
+    {
+      "price": 0.006641275,
+      "date": "Oct 16 2025, 01:45 AM UTC"
+    },
+    {
+      "price": 0.006642378,
+      "date": "Oct 16 2025, 01:46 AM UTC"
+    },
+    {
+      "price": 0.006642664,
+      "date": "Oct 16 2025, 01:47 AM UTC"
+    },
+    {
+      "price": 0.00664176,
+      "date": "Oct 16 2025, 01:48 AM UTC"
+    },
+    {
+      "price": 0.006642422,
+      "date": "Oct 16 2025, 01:49 AM UTC"
+    },
+    {
+      "price": 0.006642179,
+      "date": "Oct 16 2025, 01:50 AM UTC"
+    },
+    {
+      "price": 0.00664281895,
+      "date": "Oct 16 2025, 01:51 AM UTC"
+    },
+    {
+      "price": 0.006643304,
+      "date": "Oct 16 2025, 01:52 AM UTC"
+    },
+    {
+      "price": 0.00664257626,
+      "date": "Oct 16 2025, 01:53 AM UTC"
+    },
+    {
+      "price": 0.006642047,
+      "date": "Oct 16 2025, 01:54 AM UTC"
+    },
+    {
+      "price": 0.006640437,
+      "date": "Oct 16 2025, 01:55 AM UTC"
+    },
+    {
+      "price": 0.006639621,
+      "date": "Oct 16 2025, 01:56 AM UTC"
+    },
+    {
+      "price": 0.006638101,
+      "date": "Oct 16 2025, 01:57 AM UTC"
+    },
+    {
+      "price": 0.006638431,
+      "date": "Oct 16 2025, 01:58 AM UTC"
+    },
+    {
+      "price": 0.006638696,
+      "date": "Oct 16 2025, 01:59 AM UTC"
+    },
+    {
+      "price": 0.00663982,
+      "date": "Oct 16 2025, 02:00 AM UTC"
+    },
+    {
+      "price": 0.00663984171,
+      "date": "Oct 16 2025, 02:01 AM UTC"
+    },
+    {
+      "price": 0.006640018,
+      "date": "Oct 16 2025, 02:02 AM UTC"
+    },
+    {
+      "price": 0.006641363,
+      "date": "Oct 16 2025, 02:03 AM UTC"
+    },
+    {
+      "price": 0.00664085587,
+      "date": "Oct 16 2025, 02:04 AM UTC"
+    },
+    {
+      "price": 0.00664004,
+      "date": "Oct 16 2025, 02:05 AM UTC"
+    },
+    {
+      "price": 0.006638718,
+      "date": "Oct 16 2025, 02:06 AM UTC"
+    },
+    {
+      "price": 0.006639269,
+      "date": "Oct 16 2025, 02:07 AM UTC"
+    },
+    {
+      "price": 0.006640238,
+      "date": "Oct 16 2025, 02:08 AM UTC"
+    },
+    {
+      "price": 0.00663957719,
+      "date": "Oct 16 2025, 02:09 AM UTC"
+    },
+    {
+      "price": 0.006639996,
+      "date": "Oct 16 2025, 02:10 AM UTC"
+    },
+    {
+      "price": 0.00664026,
+      "date": "Oct 16 2025, 02:11 AM UTC"
+    },
+    {
+      "price": 0.006639709,
+      "date": "Oct 16 2025, 02:13 AM UTC"
+    },
+    {
+      "price": 0.006638872,
+      "date": "Oct 16 2025, 02:14 AM UTC"
+    },
+    {
+      "price": 0.006636889,
+      "date": "Oct 16 2025, 02:15 AM UTC"
+    },
+    {
+      "price": 0.006636735,
+      "date": "Oct 16 2025, 02:16 AM UTC"
+    },
+    {
+      "price": 0.00663629456,
+      "date": "Oct 16 2025, 02:17 AM UTC"
+    },
+    {
+      "price": 0.006636405,
+      "date": "Oct 16 2025, 02:18 AM UTC"
+    },
+    {
+      "price": 0.00663726359,
+      "date": "Oct 16 2025, 02:19 AM UTC"
+    },
+    {
+      "price": 0.00663722,
+      "date": "Oct 16 2025, 02:20 AM UTC"
+    },
+    {
+      "price": 0.006637374,
+      "date": "Oct 16 2025, 02:21 AM UTC"
+    },
+    {
+      "price": 0.006636911,
+      "date": "Oct 16 2025, 02:22 AM UTC"
+    },
+    {
+      "price": 0.006637176,
+      "date": "Oct 16 2025, 02:23 AM UTC"
+    },
+    {
+      "price": 0.006637374,
+      "date": "Oct 16 2025, 02:25 AM UTC"
+    },
+    {
+      "price": 0.006635722,
+      "date": "Oct 16 2025, 02:26 AM UTC"
+    },
+    {
+      "price": 0.006634379,
+      "date": "Oct 16 2025, 02:27 AM UTC"
+    },
+    {
+      "price": 0.006635216,
+      "date": "Oct 16 2025, 02:28 AM UTC"
+    },
+    {
+      "price": 0.006634269,
+      "date": "Oct 16 2025, 02:29 AM UTC"
+    },
+    {
+      "price": 0.006634291,
+      "date": "Oct 16 2025, 02:30 AM UTC"
+    },
+    {
+      "price": 0.006634115,
+      "date": "Oct 16 2025, 02:31 AM UTC"
+    },
+    {
+      "price": 0.006634732,
+      "date": "Oct 16 2025, 02:32 AM UTC"
+    },
+    {
+      "price": 0.006634247,
+      "date": "Oct 16 2025, 02:33 AM UTC"
+    },
+    {
+      "price": 0.006634467,
+      "date": "Oct 16 2025, 02:35 AM UTC"
+    },
+    {
+      "price": 0.006633719,
+      "date": "Oct 16 2025, 02:36 AM UTC"
+    },
+    {
+      "price": 0.006635436,
+      "date": "Oct 16 2025, 02:37 AM UTC"
+    },
+    {
+      "price": 0.006635084,
+      "date": "Oct 16 2025, 02:38 AM UTC"
+    },
+    {
+      "price": 0.00663479752,
+      "date": "Oct 16 2025, 02:39 AM UTC"
+    },
+    {
+      "price": 0.00663537,
+      "date": "Oct 16 2025, 02:40 AM UTC"
+    },
+    {
+      "price": 0.006635326,
+      "date": "Oct 16 2025, 02:41 AM UTC"
+    },
+    {
+      "price": 0.006634798,
+      "date": "Oct 16 2025, 02:42 AM UTC"
+    },
+    {
+      "price": 0.006634996,
+      "date": "Oct 16 2025, 02:44 AM UTC"
+    },
+    {
+      "price": 0.006634401,
+      "date": "Oct 16 2025, 02:45 AM UTC"
+    },
+    {
+      "price": 0.00663367519,
+      "date": "Oct 16 2025, 02:46 AM UTC"
+    },
+    {
+      "price": 0.006633433,
+      "date": "Oct 16 2025, 02:47 AM UTC"
+    },
+    {
+      "price": 0.006634247,
+      "date": "Oct 16 2025, 02:48 AM UTC"
+    },
+    {
+      "price": 0.006634908,
+      "date": "Oct 16 2025, 02:50 AM UTC"
+    },
+    {
+      "price": 0.006634908,
+      "date": "Oct 16 2025, 02:51 AM UTC"
+    },
+    {
+      "price": 0.00663481953,
+      "date": "Oct 16 2025, 02:52 AM UTC"
+    },
+    {
+      "price": 0.006634247,
+      "date": "Oct 16 2025, 02:53 AM UTC"
+    },
+    {
+      "price": 0.00663448939,
+      "date": "Oct 16 2025, 02:54 AM UTC"
+    },
+    {
+      "price": 0.006634291,
+      "date": "Oct 16 2025, 02:55 AM UTC"
+    },
+    {
+      "price": 0.006634908,
+      "date": "Oct 16 2025, 02:56 AM UTC"
+    },
+    {
+      "price": 0.006634511,
+      "date": "Oct 16 2025, 02:57 AM UTC"
+    },
+    {
+      "price": 0.006634225,
+      "date": "Oct 16 2025, 02:58 AM UTC"
+    },
+    {
+      "price": 0.006634005,
+      "date": "Oct 16 2025, 02:59 AM UTC"
+    },
+    {
+      "price": 0.006630354,
+      "date": "Oct 16 2025, 03:01 AM UTC"
+    },
+    {
+      "price": 0.006630728,
+      "date": "Oct 16 2025, 03:02 AM UTC"
+    },
+    {
+      "price": 0.006631366,
+      "date": "Oct 16 2025, 03:03 AM UTC"
+    },
+    {
+      "price": 0.006632311,
+      "date": "Oct 16 2025, 03:04 AM UTC"
+    },
+    {
+      "price": 0.00663101392,
+      "date": "Oct 16 2025, 03:05 AM UTC"
+    },
+    {
+      "price": 0.006631366,
+      "date": "Oct 16 2025, 03:06 AM UTC"
+    },
+    {
+      "price": 0.006631608,
+      "date": "Oct 16 2025, 03:07 AM UTC"
+    },
+    {
+      "price": 0.006632091,
+      "date": "Oct 16 2025, 03:09 AM UTC"
+    },
+    {
+      "price": 0.006632135,
+      "date": "Oct 16 2025, 03:10 AM UTC"
+    },
+    {
+      "price": 0.006631102,
+      "date": "Oct 16 2025, 03:11 AM UTC"
+    },
+    {
+      "price": 0.006630025,
+      "date": "Oct 16 2025, 03:12 AM UTC"
+    },
+    {
+      "price": 0.006630047,
+      "date": "Oct 16 2025, 03:13 AM UTC"
+    },
+    {
+      "price": 0.006630047,
+      "date": "Oct 16 2025, 03:14 AM UTC"
+    },
+    {
+      "price": 0.006631674,
+      "date": "Oct 16 2025, 03:15 AM UTC"
+    },
+    {
+      "price": 0.006632531,
+      "date": "Oct 16 2025, 03:16 AM UTC"
+    },
+    {
+      "price": 0.006632311,
+      "date": "Oct 16 2025, 03:17 AM UTC"
+    },
+    {
+      "price": 0.006632993,
+      "date": "Oct 16 2025, 03:18 AM UTC"
+    },
+    {
+      "price": 0.006633961,
+      "date": "Oct 16 2025, 03:19 AM UTC"
+    },
+    {
+      "price": 0.006633939,
+      "date": "Oct 16 2025, 03:21 AM UTC"
+    },
+    {
+      "price": 0.00663231129,
+      "date": "Oct 16 2025, 03:22 AM UTC"
+    },
+    {
+      "price": 0.006631388,
+      "date": "Oct 16 2025, 03:23 AM UTC"
+    },
+    {
+      "price": 0.006629827,
+      "date": "Oct 16 2025, 03:24 AM UTC"
+    },
+    {
+      "price": 0.00662978297,
+      "date": "Oct 16 2025, 03:25 AM UTC"
+    },
+    {
+      "price": 0.006628794,
+      "date": "Oct 16 2025, 03:26 AM UTC"
+    },
+    {
+      "price": 0.006628113,
+      "date": "Oct 16 2025, 03:27 AM UTC"
+    },
+    {
+      "price": 0.006628596,
+      "date": "Oct 16 2025, 03:28 AM UTC"
+    },
+    {
+      "price": 0.006629497,
+      "date": "Oct 16 2025, 03:29 AM UTC"
+    },
+    {
+      "price": 0.006629981,
+      "date": "Oct 16 2025, 03:30 AM UTC"
+    },
+    {
+      "price": 0.006629937,
+      "date": "Oct 16 2025, 03:31 AM UTC"
+    },
+    {
+      "price": 0.006629915,
+      "date": "Oct 16 2025, 03:32 AM UTC"
+    },
+    {
+      "price": 0.006629629,
+      "date": "Oct 16 2025, 03:33 AM UTC"
+    },
+    {
+      "price": 0.006628926,
+      "date": "Oct 16 2025, 03:34 AM UTC"
+    },
+    {
+      "price": 0.006627828,
+      "date": "Oct 16 2025, 03:35 AM UTC"
+    },
+    {
+      "price": 0.006628091,
+      "date": "Oct 16 2025, 03:36 AM UTC"
+    },
+    {
+      "price": 0.006627916,
+      "date": "Oct 16 2025, 03:37 AM UTC"
+    },
+    {
+      "price": 0.00662809118,
+      "date": "Oct 16 2025, 03:38 AM UTC"
+    },
+    {
+      "price": 0.006628399,
+      "date": "Oct 16 2025, 03:39 AM UTC"
+    },
+    {
+      "price": 0.00662774,
+      "date": "Oct 16 2025, 03:40 AM UTC"
+    },
+    {
+      "price": 0.006627894,
+      "date": "Oct 16 2025, 03:41 AM UTC"
+    },
+    {
+      "price": 0.006627916,
+      "date": "Oct 16 2025, 03:42 AM UTC"
+    },
+    {
+      "price": 0.00662806921,
+      "date": "Oct 16 2025, 03:43 AM UTC"
+    },
+    {
+      "price": 0.006628113,
+      "date": "Oct 16 2025, 03:44 AM UTC"
+    },
+    {
+      "price": 0.006628377,
+      "date": "Oct 16 2025, 03:45 AM UTC"
+    },
+    {
+      "price": 0.006628882,
+      "date": "Oct 16 2025, 03:46 AM UTC"
+    },
+    {
+      "price": 0.00662907978,
+      "date": "Oct 16 2025, 03:47 AM UTC"
+    },
+    {
+      "price": 0.006628926,
+      "date": "Oct 16 2025, 03:48 AM UTC"
+    },
+    {
+      "price": 0.006629366,
+      "date": "Oct 16 2025, 03:49 AM UTC"
+    },
+    {
+      "price": 0.006629585,
+      "date": "Oct 16 2025, 03:50 AM UTC"
+    },
+    {
+      "price": 0.006629585,
+      "date": "Oct 16 2025, 03:51 AM UTC"
+    },
+    {
+      "price": 0.00662897,
+      "date": "Oct 16 2025, 03:52 AM UTC"
+    },
+    {
+      "price": 0.006629475,
+      "date": "Oct 16 2025, 03:53 AM UTC"
+    },
+    {
+      "price": 0.00662905781,
+      "date": "Oct 16 2025, 03:54 AM UTC"
+    },
+    {
+      "price": 0.006629146,
+      "date": "Oct 16 2025, 03:55 AM UTC"
+    },
+    {
+      "price": 0.006628992,
+      "date": "Oct 16 2025, 03:56 AM UTC"
+    },
+    {
+      "price": 0.00662822297,
+      "date": "Oct 16 2025, 03:57 AM UTC"
+    },
+    {
+      "price": 0.006628465,
+      "date": "Oct 16 2025, 03:58 AM UTC"
+    },
+    {
+      "price": 0.006628596,
+      "date": "Oct 16 2025, 03:59 AM UTC"
+    },
+    {
+      "price": 0.006628179,
+      "date": "Oct 16 2025, 04:00 AM UTC"
+    },
+    {
+      "price": 0.00662800331,
+      "date": "Oct 16 2025, 04:01 AM UTC"
+    },
+    {
+      "price": 0.006627981,
+      "date": "Oct 16 2025, 04:02 AM UTC"
+    },
+    {
+      "price": 0.006627652,
+      "date": "Oct 16 2025, 04:03 AM UTC"
+    },
+    {
+      "price": 0.006627125,
+      "date": "Oct 16 2025, 04:04 AM UTC"
+    },
+    {
+      "price": 0.00662809118,
+      "date": "Oct 16 2025, 04:05 AM UTC"
+    },
+    {
+      "price": 0.006628157,
+      "date": "Oct 16 2025, 04:06 AM UTC"
+    },
+    {
+      "price": 0.006628333,
+      "date": "Oct 16 2025, 04:07 AM UTC"
+    },
+    {
+      "price": 0.006628069,
+      "date": "Oct 16 2025, 04:08 AM UTC"
+    },
+    {
+      "price": 0.006627894,
+      "date": "Oct 16 2025, 04:10 AM UTC"
+    },
+    {
+      "price": 0.006627872,
+      "date": "Oct 16 2025, 04:11 AM UTC"
+    },
+    {
+      "price": 0.006627213,
+      "date": "Oct 16 2025, 04:12 AM UTC"
+    },
+    {
+      "price": 0.00662661979,
+      "date": "Oct 16 2025, 04:13 AM UTC"
+    },
+    {
+      "price": 0.006626708,
+      "date": "Oct 16 2025, 04:14 AM UTC"
+    },
+    {
+      "price": 0.00662572,
+      "date": "Oct 16 2025, 04:16 AM UTC"
+    },
+    {
+      "price": 0.006625149,
+      "date": "Oct 16 2025, 04:17 AM UTC"
+    },
+    {
+      "price": 0.006625259,
+      "date": "Oct 16 2025, 04:18 AM UTC"
+    },
+    {
+      "price": 0.006625259,
+      "date": "Oct 16 2025, 04:18 AM UTC"
+    }
+  ],
+  "markets": {
+    "us": [
+      {
+        "stock": ".DJI:INDEXDJX",
+        "link": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=.DJI%3AINDEXDJX",
+        "name": "Dow Jones",
+        "price": 46253.31,
+        "price_movement": {
+          "percentage": 0.03706975,
+          "value": 17.152344,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": ".INX:INDEXSP",
+        "link": "https://www.google.com/finance/quote/.INX:INDEXSP",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=.INX%3AINDEXSP",
+        "name": "S&P 500",
+        "price": 6671.06,
+        "price_movement": {
+          "percentage": 0.4026001,
+          "value": 26.75,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": ".IXIC:INDEXNASDAQ",
+        "link": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=.IXIC%3AINDEXNASDAQ",
+        "name": "Nasdaq",
+        "price": 22670.08,
+        "price_movement": {
+          "percentage": 0.65882635,
+          "value": 148.3789,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "RUT:INDEXRUSSELL",
+        "link": "https://www.google.com/finance/quote/RUT:INDEXRUSSELL",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=RUT%3AINDEXRUSSELL",
+        "name": "Russell",
+        "price": 2519.7542,
+        "price_movement": {
+          "percentage": 0.97196484,
+          "value": 24.255371,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "VIX:INDEXCBOE",
+        "link": "https://www.google.com/finance/quote/VIX:INDEXCBOE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=VIX%3AINDEXCBOE",
+        "name": "VIX",
+        "price": 20.64,
+        "price_movement": {
+          "percentage": 0.81691533,
+          "value": 0.17000008,
+          "movement": "Down"
+        }
+      }
+    ],
+    "europe": [
+      {
+        "stock": "DAX:INDEXDB",
+        "link": "https://www.google.com/finance/quote/DAX:INDEXDB",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=DAX%3AINDEXDB",
+        "name": "DAX",
+        "price": 24181.37,
+        "price_movement": {
+          "percentage": 0.22927941,
+          "value": 55.570313,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "UKX:INDEXFTSE",
+        "link": "https://www.google.com/finance/quote/UKX:INDEXFTSE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=UKX%3AINDEXFTSE",
+        "name": "FTSE 100",
+        "price": 9424.75,
+        "price_movement": {
+          "percentage": 0.2964161,
+          "value": 28.019531,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "PX1:INDEXEURO",
+        "link": "https://www.google.com/finance/quote/PX1:INDEXEURO",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=PX1%3AINDEXEURO",
+        "name": "CAC 40",
+        "price": 8077.0,
+        "price_movement": {
+          "percentage": 1.987215,
+          "value": 157.37988,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "INDI:INDEXBME",
+        "link": "https://www.google.com/finance/quote/INDI:INDEXBME",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=INDI%3AINDEXBME",
+        "name": "IBEX 35",
+        "price": 15570.3,
+        "price_movement": {
+          "percentage": 0.10329894,
+          "value": 16.100586,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "SX5E:INDEXSTOXX",
+        "link": "https://www.google.com/finance/quote/SX5E:INDEXSTOXX",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=SX5E%3AINDEXSTOXX",
+        "name": "STOXX 50",
+        "price": 5605.03,
+        "price_movement": {
+          "percentage": 0.9542418,
+          "value": 52.97998,
+          "movement": "Up"
+        }
+      }
+    ],
+    "asia": [
+      {
+        "stock": "NI225:INDEXNIKKEI",
+        "link": "https://www.google.com/finance/quote/NI225:INDEXNIKKEI",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=NI225%3AINDEXNIKKEI",
+        "name": "Nikkei 225",
+        "price": 48156.54,
+        "price_movement": {
+          "percentage": 1.0149782,
+          "value": 483.8672,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "000001:SHA",
+        "link": "https://www.google.com/finance/quote/000001:SHA",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=000001%3ASHA",
+        "name": "SSE",
+        "price": 3916.1018,
+        "price_movement": {
+          "percentage": 0.09949196,
+          "value": 3.892334,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "HSI:INDEXHANGSENG",
+        "link": "https://www.google.com/finance/quote/HSI:INDEXHANGSENG",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=HSI%3AINDEXHANGSENG",
+        "name": "HSI",
+        "price": 25799.27,
+        "price_movement": {
+          "percentage": 0.42967,
+          "value": 111.33008,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "SENSEX:INDEXBOM",
+        "link": "https://www.google.com/finance/quote/SENSEX:INDEXBOM",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=SENSEX%3AINDEXBOM",
+        "name": "SENSEX",
+        "price": 83012.92,
+        "price_movement": {
+          "percentage": 0.4932995,
+          "value": 407.4922,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "NIFTY_50:INDEXNSE",
+        "link": "https://www.google.com/finance/quote/NIFTY_50:INDEXNSE",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=NIFTY_50%3AINDEXNSE",
+        "name": "NIFTY 50",
+        "price": 25438.25,
+        "price_movement": {
+          "percentage": 0.45293498,
+          "value": 114.69922,
+          "movement": "Up"
+        }
+      }
+    ],
+    "currencies": [
+      {
+        "stock": "EUR-USD",
+        "link": "https://www.google.com/finance/quote/EUR-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=EUR-USD",
+        "name": "EUR / USD",
+        "price": 1.16601,
+        "price_movement": {
+          "percentage": 0.1206,
+          "value": 0.001405,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "USD-JPY",
+        "link": "https://www.google.com/finance/quote/USD-JPY",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=USD-JPY",
+        "name": "USD / JPY",
+        "price": 150.937495,
+        "price_movement": {
+          "percentage": 0.0282,
+          "value": 0.042505,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "GBP-USD",
+        "link": "https://www.google.com/finance/quote/GBP-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=GBP-USD",
+        "name": "GBP / USD",
+        "price": 1.341995,
+        "price_movement": {
+          "percentage": 0.1179,
+          "value": 0.00158,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "USD-CAD",
+        "link": "https://www.google.com/finance/quote/USD-CAD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=USD-CAD",
+        "name": "USD / CAD",
+        "price": 1.40319,
+        "price_movement": {
+          "percentage": 0.105,
+          "value": 0.001475,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "AUD-USD",
+        "link": "https://www.google.com/finance/quote/AUD-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=AUD-USD",
+        "name": "AUD / USD",
+        "price": 0.6488,
+        "price_movement": {
+          "percentage": 0.2997,
+          "value": 0.00195,
+          "movement": "Down"
+        }
+      }
+    ],
+    "crypto": [
+      {
+        "stock": "BTC-USD",
+        "link": "https://www.google.com/finance/quote/BTC-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=BTC-USD",
+        "name": "Bitcoin",
+        "price": 111685.7512,
+        "price_movement": {
+          "percentage": 0.8202,
+          "value": 908.6371,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "ETH-USD",
+        "link": "https://www.google.com/finance/quote/ETH-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=ETH-USD",
+        "name": "Ethereum",
+        "price": 4030.4716,
+        "price_movement": {
+          "percentage": 1.0866,
+          "value": 43.3228,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "SOL-USD",
+        "link": "https://www.google.com/finance/quote/SOL-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=SOL-USD",
+        "name": "Solana",
+        "price": 194.3303,
+        "price_movement": {
+          "percentage": 0.159,
+          "value": 0.3084,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "XRP-USD",
+        "link": "https://www.google.com/finance/quote/XRP-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=XRP-USD",
+        "name": "XRP",
+        "price": 2.4278,
+        "price_movement": {
+          "percentage": 0.6259,
+          "value": 0.0151,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "DOGE-USD",
+        "link": "https://www.google.com/finance/quote/DOGE-USD",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=DOGE-USD",
+        "name": "Dogecoin",
+        "price": 0.197125,
+        "price_movement": {
+          "percentage": 0.3084,
+          "value": 0.000606,
+          "movement": "Up"
+        }
+      }
+    ],
+    "futures": [
+      {
+        "stock": "YMW00:CBOT",
+        "link": "https://www.google.com/finance/quote/YMW00:CBOT",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=YMW00%3ACBOT",
+        "name": "Dow Futures",
+        "price": 46479.0,
+        "currency": "USD",
+        "price_movement": {
+          "percentage": 0.0279618,
+          "value": 13.0,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "ESW00:CME_EMINIS",
+        "link": "https://www.google.com/finance/quote/ESW00:CME_EMINIS",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=ESW00%3ACME_EMINIS",
+        "name": "S&P Futures",
+        "price": 6711.75,
+        "currency": "USD",
+        "price_movement": {
+          "percentage": 0.048399106,
+          "value": 3.25,
+          "movement": "Down"
+        }
+      },
+      {
+        "stock": "NQW00:CME_EMINIS",
+        "link": "https://www.google.com/finance/quote/NQW00:CME_EMINIS",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=NQW00%3ACME_EMINIS",
+        "name": "Nasdaq Futures",
+        "price": 24927.5,
+        "currency": "USD",
+        "price_movement": {
+          "percentage": 0.01203635,
+          "value": 3.0,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "GCW00:COMEX",
+        "link": "https://www.google.com/finance/quote/GCW00:COMEX",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=GCW00%3ACOMEX",
+        "name": "Gold",
+        "price": 4248.60009765625,
+        "currency": "USD",
+        "price_movement": {
+          "percentage": 1.1186215,
+          "value": 47.0,
+          "movement": "Up"
+        }
+      },
+      {
+        "stock": "CLW00:NYMEX",
+        "link": "https://www.google.com/finance/quote/CLW00:NYMEX",
+        "serpapi_link": "https://serpapi.com/search.json?engine=google_finance&hl=en&q=CLW00%3ANYMEX",
+        "name": "Crude Oil",
+        "price": 58.380001068115234,
+        "currency": "USD",
+        "price_movement": {
+          "percentage": 0.9336115,
+          "value": 0.5400009,
+          "movement": "Up"
+        }
+      }
+    ],
+    "top_news": {
+      "link": "https://www.wsj.com/finance/stocks/global-stocks-markets-dow-news-10-15-2025-085bcc90",
+      "snippet": "Strong Bank Earnings Push S&P 500 Higher",
+      "source": "The Wall Street Journal",
+      "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTxsjgOqS5nCxgZ2pgRQ3tvYmhxmcWOdpw-h_Pz36UTaxjALp69YgMOis-MEYc",
+      "date": "7 hours ago",
+      "iso_date": "2025-10-15T20:30:00Z"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "search_metadata": {
+    "search_id": "breweries_food_trucks_outdoor_markets_Portland, Oregon_weekend_20251016_184446",
+    "query": "breweries food trucks outdoor markets",
+    "location": "Portland, Oregon",
+    "date_filter": "weekend",
+    "event_type": null,
+    "language": "en",
+    "country": "us",
+    "search_timestamp": "2025-10-16T18:44:46.260402",
+    "total_results": 0
+  },
+  "search_parameters": {
+    "q": "breweries food trucks outdoor markets in Portland, Oregon",
+    "engine": "google_events",
+    "htichips": "date:weekend",
+    "hl": "en",
+    "gl": "us"
+  },
+  "search_information": {
+    "events_results_state": "Fully empty"
+  },
+  "events_results": []
+}

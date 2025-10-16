@@ -1,0 +1,519 @@
+{
+  "search_metadata": {
+    "search_id": "SJC_PDX_2025-10-17_2025-10-19_20251015_215555",
+    "departure": "SJC",
+    "arrival": "PDX",
+    "outbound_date": "2025-10-17",
+    "return_date": "2025-10-19",
+    "trip_type": "Round trip",
+    "passengers": {
+      "adults": 2,
+      "children": 0,
+      "infants_in_seat": 0,
+      "infants_on_lap": 0
+    },
+    "travel_class": "Economy",
+    "currency": "USD",
+    "search_timestamp": "2025-10-15T21:55:55.089295"
+  },
+  "best_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 08:00"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 09:48"
+          },
+          "duration": 108,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2263",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 318 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "total_duration": 108,
+      "carbon_emissions": {
+        "this_flight": 318000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 45
+      },
+      "price": 1334,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pCVXpJeU5qTWFDd2pHa1FnUUFob0RWVk5FT0J4d3hwRUkiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMjI2MyJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 13:30"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 15:15"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737MAX 8 Passenger",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 4124",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 197 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 197000,
+        "typical_for_this_route": 220000,
+        "difference_percent": -10
+      },
+      "price": 1334,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pYVGpReE1qUWFDd2pHa1FnUUFob0RWVk5FT0J4d3hwRUkiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiNDEyNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 21:55"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 23:40"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 3586",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "In-seat USB outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 222 kg"
+          ]
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 223000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 1
+      },
+      "price": 1334,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pYVGpNMU9EWWFDd2pHa1FnUUFob0RWVk5FT0J4d3hwRUkiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiMzU4NiJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 09:33"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 11:28"
+          },
+          "duration": 115,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 3312",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 318 kg"
+          ],
+          "plane_and_crew_by": "SkyWest Airlines as Alaska SkyWest"
+        }
+      ],
+      "total_duration": 115,
+      "carbon_emissions": {
+        "this_flight": 318000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 45
+      },
+      "price": 1594,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pCVXpNek1USWFDd2pZM0FrUUFob0RWVk5FT0J4dzJOd0oiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMzMxMiJdXV0="
+    }
+  ],
+  "other_flights": [
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 12:27"
+          },
+          "arrival_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-17 16:14"
+          },
+          "duration": 167,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 4918",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 222 kg"
+          ]
+        },
+        {
+          "departure_airport": {
+            "name": "Denver International Airport",
+            "id": "DEN",
+            "time": "2025-10-18 09:58"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-18 11:48"
+          },
+          "duration": 170,
+          "airplane": "Airbus A321neo",
+          "airline": "Frontier",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+          "travel_class": "Economy",
+          "flight_number": "F9 2553",
+          "legroom": "28 in",
+          "extensions": [
+            "Below average legroom (28 in)",
+            "Carbon emissions estimate: 208 kg"
+          ]
+        }
+      ],
+      "layovers": [
+        {
+          "duration": 1064,
+          "name": "Denver International Airport",
+          "id": "DEN",
+          "overnight": true
+        }
+      ],
+      "total_duration": 1401,
+      "carbon_emissions": {
+        "this_flight": 431000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 96
+      },
+      "price": 1048,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/F9.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZzFHT1RRNU1UaDhSamt5TlRVekdnc0kzcklHRUFJYUExVlRSRGdjY042eUJnPT0iLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJERU4iLG51bGwsIkY5IiwiNDkxOCJdLFsiREVOIiwiMjAyNS0xMC0xOCIsIlBEWCIsbnVsbCwiRjkiLCIyNTUzIl1dXQ=="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 11:50"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 13:45"
+          },
+          "duration": 115,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 3311",
+          "ticket_also_sold_by": [
+            "Hawaiian"
+          ],
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 318 kg"
+          ],
+          "plane_and_crew_by": "SkyWest Airlines as Alaska SkyWest"
+        }
+      ],
+      "total_duration": 115,
+      "carbon_emissions": {
+        "this_flight": 318000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 45
+      },
+      "price": 1594,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pCVXpNek1URWFDd2pZM0FrUUFob0RWVk5FT0J4dzJOd0oiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMzMxMSJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 17:15"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 19:00"
+          },
+          "duration": 105,
+          "airplane": "Boeing 737",
+          "airline": "Southwest",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+          "travel_class": "Economy",
+          "flight_number": "WN 4648",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi",
+            "Stream media to your device",
+            "Carbon emissions estimate: 249 kg"
+          ],
+          "often_delayed_by_over_30_min": true
+        }
+      ],
+      "total_duration": 105,
+      "carbon_emissions": {
+        "this_flight": 250000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 14
+      },
+      "price": 1634,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/WN.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pYVGpRMk5EZ2FDd2o0K3drUUFob0RWVk5FT0J4dytQc0oiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIldOIiwiNDY0OCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 19:02"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 20:48"
+          },
+          "duration": 106,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "Economy",
+          "flight_number": "AS 2034",
+          "legroom": "31 in",
+          "extensions": [
+            "Average legroom (31 in)",
+            "Wi-Fi for a fee",
+            "Stream media to your device",
+            "Carbon emissions estimate: 318 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "total_duration": 106,
+      "carbon_emissions": {
+        "this_flight": 318000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 45
+      },
+      "price": 1874,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pCVXpJd016UWFDd2k0dHdzUUFob0RWVk5FT0J4d3VMY0wiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMjAzNCJdXV0="
+    },
+    {
+      "flights": [
+        {
+          "departure_airport": {
+            "name": "San Jose Mineta International Airport",
+            "id": "SJC",
+            "time": "2025-10-17 15:00"
+          },
+          "arrival_airport": {
+            "name": "Portland International Airport",
+            "id": "PDX",
+            "time": "2025-10-17 16:46"
+          },
+          "duration": 106,
+          "airplane": "Embraer 175",
+          "airline": "Alaska",
+          "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+          "travel_class": "First Class",
+          "flight_number": "AS 2240",
+          "extensions": [
+            "Standard recliner seat",
+            "Wi-Fi for a fee",
+            "In-seat power outlet",
+            "Stream media to your device",
+            "Carbon emissions estimate: 477 kg"
+          ],
+          "plane_and_crew_by": "Horizon Air as Alaska Horizon"
+        }
+      ],
+      "total_duration": 106,
+      "carbon_emissions": {
+        "this_flight": 477000,
+        "typical_for_this_route": 220000,
+        "difference_percent": 117
+      },
+      "price": 2524,
+      "type": "Round trip",
+      "airline_logo": "https://www.gstatic.com/flights/airline_logos/70px/AS.png",
+      "extensions": [
+        "Checked baggage for a fee",
+        "Bag and fare conditions depend on the return flight"
+      ],
+      "departure_token": "WyJDalJJYlc5RlJUaFRUV3RwVmxsQlEzWmxkSGRDUnkwdExTMHRMUzB0TFhaM2RHTXlORUZCUVVGQlIycDJlWGhKU1d4T1N6UkJFZ1pCVXpJeU5EQWFDd2llc3c4UUFob0RWVk5FT0J4d25yTVAiLFtbIlNKQyIsIjIwMjUtMTAtMTciLCJQRFgiLG51bGwsIkFTIiwiMjI0MCJdXV0="
+    }
+  ],
+  "price_insights": {
+    "lowest_price": 1048,
+    "price_level": "high",
+    "typical_price_range": [
+      235,
+      570
+    ]
+  },
+  "airports": [
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "SJC",
+            "name": "San Jose Mineta International Airport"
+          },
+          "city": "San Jose",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWZ-_7jgZlhKjGRKPjts1pPkdG9TP5F6pbo4QdRoc6MtbnSCGL0E_pvQyrc-vqJhqOZA1dl-DRk5gmQ",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZiJ5nhZCjP2lX6bxn1oToCCrkBEB-LWoti3VTMC2DirDJ1dvG87L5J5jZ-34yNuA9yvj8yPenGPgdPjRLUsWvsGOhouCNpHXW8Pik1A"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ]
+    },
+    {
+      "departure": [
+        {
+          "airport": {
+            "id": "PDX",
+            "name": "Portland International Airport"
+          },
+          "city": "Portland",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTzwRE9peG7V_1nr1ODOvJwxO-xWUd_3L39jp15dyCGnHlB2zTnR0iA1y3C9iLCK9hcgPZfF56U09tKRA",
+          "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkFAVSiQZYe65jy-zBfiWE6kka7DzbI6h9XIW60DL_BzkXL7CXEpCANiDjVwecac5Ir1TnWswslFrgAjP9dcm4fPIeTNsuYwqzoH2zroU"
+        }
+      ],
+      "arrival": [
+        {
+          "airport": {
+            "id": "SJC",
+            "name": "San Jose Mineta International Airport"
+          },
+          "city": "San Jose",
+          "country": "United States",
+          "country_code": "US",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDWZ-_7jgZlhKjGRKPjts1pPkdG9TP5F6pbo4QdRoc6MtbnSCGL0E_pvQyrc-vqJhqOZA1dl-DRk5gmQ",
+          "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaZiJ5nhZCjP2lX6bxn1oToCCrkBEB-LWoti3VTMC2DirDJ1dvG87L5J5jZ-34yNuA9yvj8yPenGPgdPjRLUsWvsGOhouCNpHXW8Pik1A"
+        }
+      ]
+    }
+  ]
+}
