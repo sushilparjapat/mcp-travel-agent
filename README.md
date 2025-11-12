@@ -33,7 +33,7 @@ mcp-travel-agent/
 │       │   └── weather_server.py 
 │       └── finance_server/ 
 │           └── finance_server.py 
-│ <br>
+<br>
 ├── frontend/ 
 │   ├── app.py           # Streamlit app 
 │   ├── config.py       # MCP server configuration      
